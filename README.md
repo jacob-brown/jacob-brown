@@ -10,4 +10,4 @@ I'm Jacob. I like to build data process and analysis pipelines.
 - 💬 Ask me about: Python, optimal data handling, and statistics 
 - 📫 How to reach me: https://jacob-brown.github.io/
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I lived in a desert for 3 years :cactus::cactus::cactus:
+- ⚡ Fun fact: I worked in a desert for 3 years :cactus::cactus::cactus:
