@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I'm Jacob. I like to build data process and analysis pipelines.
+I'm Jacob, a cloud architect and hobby developer
 
 
 - 🔭 I’m currently working as a: Lead Data Specialist in Health Insurance 
